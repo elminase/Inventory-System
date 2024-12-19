@@ -1,0 +1,13 @@
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.exe.config
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.exe
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.pdb
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.csprojResolveAssemblyReference.cache
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Properties.Resources.resources
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.csproj.GenerateResource.Cache
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.exe
+c:\users\dell\onedrive\documents\visual studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.pdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Admin.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Login.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.MainForm.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Dashboard.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Inventory.resources

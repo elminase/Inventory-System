@@ -1,0 +1,35 @@
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.exe.config
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.exe
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\bin\Debug\Information Management System.pdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Inventory Management of Pet Clinic.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Inventory.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Login.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Admin.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.MainForm.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Dashboard.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information_Management_System.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Inventory Management of Pet Clinic.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.exe
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\obj\Debug\Information Management System.pdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Information Management System\Information Management System\bin\Debug\TablesSystem.accdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\bin\Debug\Information Management System.exe.config
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information Management System.exe
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information Management System.pdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\bin\Debug\Information Management System.exe
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\bin\Debug\Information Management System.pdb
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Inventory Management of Pet Clinic.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Login.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Admin.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.MainForm.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Dashboard.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Inventory Management of Pet Clinic.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Medicine.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Equipments.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Materials.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Medicine_Admin_.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Accounts.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Equipment_Admin_.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Materials_Admin_.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Deduct.resources
+C:\Users\DELL\OneDrive\Documents\Visual Studio 2015\Projects\Inventory Management System\Information Management System\obj\Debug\Information_Management_System.Deduct_Materials_.resources
